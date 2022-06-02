@@ -1,0 +1,5 @@
+var edad= prompt("INGRESA TU EDAD"); if (Number(edad)==edad){
+if (edad > 15) {alert("BIENVENIDO A VENDIENDOTODO");}
+else{
+	alert("USTED INGRESA POR SU PROPIO CONSENTiMIENTO, NOSOTROS NO NOS HACEMOS RESPONSABLES DE SU MAL USO");
+}}
